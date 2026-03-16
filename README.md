@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Developer Team
 
-You can view our team member profile from the GitHub link below.
+You can view our team members' GitHub profiles from the links below.
 
 | Developer | GitHub Profile |
 |-----------|----------------|
